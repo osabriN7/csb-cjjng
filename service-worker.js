@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://osabrin7.github.io/csb-cjjng/precache-manifest.b1eafabb2dade8ac6bb8aaa2947582dc.js"
+  "https://osabrin7.github.io/csb-cjjng/precache-manifest.d4369f37bb1181cd8ce25f0a9d4c11cc.js"
 );
 
 self.addEventListener('message', (event) => {
