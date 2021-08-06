@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://osabrin7.github.io/csb-cjjng/static/css/main.9a50543d.chunk.css",
-    "main.js": "https://osabrin7.github.io/csb-cjjng/static/js/main.bb2d8801.chunk.js",
-    "main.js.map": "https://osabrin7.github.io/csb-cjjng/static/js/main.bb2d8801.chunk.js.map",
+    "main.css": "https://osabrin7.github.io/csb-cjjng/static/css/main.934b8ffa.chunk.css",
+    "main.js": "https://osabrin7.github.io/csb-cjjng/static/js/main.dce4ae2c.chunk.js",
+    "main.js.map": "https://osabrin7.github.io/csb-cjjng/static/js/main.dce4ae2c.chunk.js.map",
     "runtime-main.js": "https://osabrin7.github.io/csb-cjjng/static/js/runtime-main.c60290fc.js",
     "runtime-main.js.map": "https://osabrin7.github.io/csb-cjjng/static/js/runtime-main.c60290fc.js.map",
-    "static/css/2.854dc3dd.chunk.css": "https://osabrin7.github.io/csb-cjjng/static/css/2.854dc3dd.chunk.css",
-    "static/js/2.e8f595e6.chunk.js": "https://osabrin7.github.io/csb-cjjng/static/js/2.e8f595e6.chunk.js",
-    "static/js/2.e8f595e6.chunk.js.map": "https://osabrin7.github.io/csb-cjjng/static/js/2.e8f595e6.chunk.js.map",
+    "static/css/2.e7b20692.chunk.css": "https://osabrin7.github.io/csb-cjjng/static/css/2.e7b20692.chunk.css",
+    "static/js/2.78388fb6.chunk.js": "https://osabrin7.github.io/csb-cjjng/static/js/2.78388fb6.chunk.js",
+    "static/js/2.78388fb6.chunk.js.map": "https://osabrin7.github.io/csb-cjjng/static/js/2.78388fb6.chunk.js.map",
     "index.html": "https://osabrin7.github.io/csb-cjjng/index.html",
-    "precache-manifest.d4369f37bb1181cd8ce25f0a9d4c11cc.js": "https://osabrin7.github.io/csb-cjjng/precache-manifest.d4369f37bb1181cd8ce25f0a9d4c11cc.js",
+    "precache-manifest.0e8e3f31b1a072589e420df6f1f53956.js": "https://osabrin7.github.io/csb-cjjng/precache-manifest.0e8e3f31b1a072589e420df6f1f53956.js",
     "service-worker.js": "https://osabrin7.github.io/csb-cjjng/service-worker.js",
-    "static/css/2.854dc3dd.chunk.css.map": "https://osabrin7.github.io/csb-cjjng/static/css/2.854dc3dd.chunk.css.map",
-    "static/css/main.9a50543d.chunk.css.map": "https://osabrin7.github.io/csb-cjjng/static/css/main.9a50543d.chunk.css.map",
-    "static/js/2.e8f595e6.chunk.js.LICENSE.txt": "https://osabrin7.github.io/csb-cjjng/static/js/2.e8f595e6.chunk.js.LICENSE.txt"
+    "static/css/2.e7b20692.chunk.css.map": "https://osabrin7.github.io/csb-cjjng/static/css/2.e7b20692.chunk.css.map",
+    "static/css/main.934b8ffa.chunk.css.map": "https://osabrin7.github.io/csb-cjjng/static/css/main.934b8ffa.chunk.css.map",
+    "static/js/2.78388fb6.chunk.js.LICENSE.txt": "https://osabrin7.github.io/csb-cjjng/static/js/2.78388fb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c60290fc.js",
-    "static/css/2.854dc3dd.chunk.css",
-    "static/js/2.e8f595e6.chunk.js",
-    "static/css/main.9a50543d.chunk.css",
-    "static/js/main.bb2d8801.chunk.js"
+    "static/css/2.e7b20692.chunk.css",
+    "static/js/2.78388fb6.chunk.js",
+    "static/css/main.934b8ffa.chunk.css",
+    "static/js/main.dce4ae2c.chunk.js"
   ]
 }
